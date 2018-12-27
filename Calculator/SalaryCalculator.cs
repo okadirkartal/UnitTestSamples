@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Calculator
+﻿namespace Calculator
 {
     public class SalaryCalculator
     {
@@ -10,7 +8,6 @@ namespace Calculator
         hourlyWage * HoursInYear;
                  
         public decimal GetHourlyWage(int annualSalary)=>
-        annualSalary / HoursInYear; 
-                
+        annualSalary / HoursInYear;            
     }
 }
