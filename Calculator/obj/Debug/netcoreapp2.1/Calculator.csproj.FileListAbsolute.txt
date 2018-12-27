@@ -1,0 +1,9 @@
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/bin/Debug/netcoreapp2.1/Calculator.deps.json
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/obj/Debug/netcoreapp2.1/Calculator.csprojAssemblyReference.cache
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfoInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfo.cs
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/obj/Debug/netcoreapp2.1/Calculator.dll
+/Users/kartal/RiderProjects/UnitTestTraining/Calculator/obj/Debug/netcoreapp2.1/Calculator.pdb

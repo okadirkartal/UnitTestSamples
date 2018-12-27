@@ -1,0 +1,17 @@
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/SalaryCalculatorTestProject.deps.json
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/SalaryCalculatorTestProject.runtimeconfig.json
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/SalaryCalculatorTestProject.runtimeconfig.dev.json
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/SalaryCalculatorTestProject.dll
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/SalaryCalculatorTestProject.pdb
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.csprojAssemblyReference.cache
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.csproj.CoreCompileInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.AssemblyInfoInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.AssemblyInfo.cs
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.csproj.CopyComplete
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.dll
+/Users/kartal/RiderProjects/UnitTestTraining/SalaryCalculatorTestProject/obj/Debug/netcoreapp2.1/SalaryCalculatorTestProject.pdb

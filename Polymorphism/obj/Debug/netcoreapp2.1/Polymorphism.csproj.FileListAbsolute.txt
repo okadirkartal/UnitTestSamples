@@ -1,0 +1,11 @@
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.deps.json
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.runtimeconfig.json
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.runtimeconfig.dev.json
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.dll
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.pdb
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.csprojAssemblyReference.cache
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.AssemblyInfoInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.AssemblyInfo.cs
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.dll
+/Users/kartal/RiderProjects/UnitTestTraining/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.pdb

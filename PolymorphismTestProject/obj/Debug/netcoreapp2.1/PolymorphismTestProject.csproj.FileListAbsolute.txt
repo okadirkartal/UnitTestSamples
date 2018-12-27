@@ -1,0 +1,17 @@
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/PolymorphismTestProject.deps.json
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/PolymorphismTestProject.runtimeconfig.json
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/PolymorphismTestProject.runtimeconfig.dev.json
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/PolymorphismTestProject.dll
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/PolymorphismTestProject.pdb
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/Polymorphism.dll
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/bin/Debug/netcoreapp2.1/Polymorphism.pdb
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.csprojAssemblyReference.cache
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.csproj.CoreCompileInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.AssemblyInfoInputs.cache
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.AssemblyInfo.cs
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.csproj.CopyComplete
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.dll
+/Users/kartal/RiderProjects/UnitTestTraining/PolymorphismTestProject/obj/Debug/netcoreapp2.1/PolymorphismTestProject.pdb
